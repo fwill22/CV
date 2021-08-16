@@ -20,7 +20,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Bank Tech Test**          | A simple command-line app that models a bank account, designed to highlight best practices in OOD and clean well crafted code. | [Ruby version](https://github.com/fwill22/bank-tech-test-ruby) tested in RSpec. <br> [Javascript version](https://github.com/fwill22/bank-tech-test-JS) tested in Jest|
 
 ## Experience
-Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. 
+<p>Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. </p>
 
 **Freelance Copywriter** (February 2019 to present)  
 - Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
@@ -35,7 +35,7 @@ _Service Project Assistant_
 
 **We Are Moody Ltd.** (May - October 2019 - *placement terminated due to COVID-19*)  
 _Community Coordinator_
-We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.
+<p> We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.</p>
 - Any experience relevant to software development
 
 **Paramount Pictures** (June - August 2018 - *Locum*)  
