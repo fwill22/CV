@@ -8,7 +8,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Fridge Savant**          | A webapp designed to simplify meal planning. Built in React, paired with a server project built in Express/Node. | Javascript, Jest, React, Express, Node, MongoDB |
+| **Fridge Savant** <br> ([Client](https://github.com/fwill22/fridge-savant-client?organization=fwill22&organization=fwill22) / [Server](https://github.com/fwill22/fridge-savant-server))        | A webapp designed to simplify meal planning. Built in React, paired with a server project built in Express/Node. | Javascript, Jest, React, Express, Node, MongoDB |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
