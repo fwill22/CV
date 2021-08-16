@@ -1,13 +1,23 @@
 ## Finn Williamson
 
+ | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Fridge Savant**          | A webapp designed to simplify meal planning. Built in React, paired with a server project built in Express/Node. | Javascript, Jest, React, Express, Node, MongoDB |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              |
+
+## Tech Tests
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Bank Tech Test**          |  | [Ruby version]( ) tested in RSpec. <br> [Javascript version]( ) tested in Jest|
 
 ## Experience
 
