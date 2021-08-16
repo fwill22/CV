@@ -28,30 +28,42 @@ A sentence about who and what you are. Then a sentence about what you've achieve
     - writing a chapter for a book on Distributed Ledger Technologies and their use cases.
     - Content copy for crucial company documents for external circulation including White Paper.
 
+<br>
+
 **Citywire** (February - April 2020 - *placement terminated due to COVID-19*)  
 _Service Project Assistant_
 
 - Any experience relevant to software development
+
+<br>
 
 **We Are Moody Ltd.** (May - October 2019 - *placement terminated due to COVID-19*)  
 _Community Coordinator_
 <p> We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.</p>
 - Any experience relevant to software development
 
+<br>
+
 **Paramount Pictures** (June - August 2018 - *Locum*)  
 _Executive Assistant to Director_
 
 - Any experience relevant to software development
+
+<br>
 
 **Flor de Madre** (September 2016 - April 2018 - *placement terminated due to COVID-19*)  
 _Head of Product_
 
 - Any experience relevant to software development
 
+<br>
+
 **Freelance Tutor** (January 2017 - July 2019)  
 
 - Science and English Literature tutor. 
 - Specialized in 1:1 teaching for primary, secondary, and university age students.
+
+<br>
 
 ## Skills
 
