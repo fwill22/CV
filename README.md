@@ -20,16 +20,38 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Bank Tech Test**          | A simple command-line app that models a bank account, designed to highlight best practices in OOD and clean well crafted code. | [Ruby version](https://github.com/fwill22/bank-tech-test-ruby) tested in RSpec. <br> [Javascript version](https://github.com/fwill22/bank-tech-test-JS) tested in Jest|
 
 ## Experience
+Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance Copywriter** (February 2019 to present)  
+- Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
+- Significant projects include:
+    - writing a chapter for a book on Distributed Ledger Technologies and their use cases.
+    - Content copy for crucial company documents for external circulation including White Paper.
 
-- Any experience relevent to software development
+**Citywire** (February - April 2020 - *placement terminated due to COVID-19*)  
+_Service Project Assistant_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Any experience relevant to software development
 
-- Any experience relevent to software development
+**We Are Moody Ltd.** (May - October 2019 - *placement terminated due to COVID-19*)  
+_Community Coordinator_
+We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.
+- Any experience relevant to software development
+
+**Paramount Pictures** (June - August 2018 - *Locum*)  
+_Executive Assistant to Director_
+
+- Any experience relevant to software development
+
+**Flor de Madre** (September 2016 - April 2018 - *placement terminated due to COVID-19*)  
+_Head of Product_
+
+- Any experience relevant to software development
+
+**Freelance Tutor** (January 2017 - July 2019)  
+
+- Science and English Literature tutor. 
+- Specialized in 1:1 teaching for primary, secondary, and university age students.
 
 ## Skills
 
