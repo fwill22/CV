@@ -1,4 +1,4 @@
-## Your Name
+## Finn Williamson
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -42,20 +42,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2021 to June 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React
+- RSpec, Capybara, Jasmine, Jest
 
-#### Your University / College (start_date to end_date)
+#### UCL (October 2017 to December 2019)
 
-- Subject, any specialisms
+- Neuroscience
 - Grade
 - Other cool stuff
+
+#### University of Leeds (September 2013 to June 2016)
+
+- BSc (Hons) Neuroscience, 1st class honors
+- Dissertation on the effects of New Psychoactive Substances (Legal highs), in line with the legislative change banning their sale and use. 
+- Cited on the Dean's list for academic excellence 2015/16
 
 #### Any other qualifications
 
