@@ -17,7 +17,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Bank Tech Test**          | A simple command-line app that models a bank account, designed to highlight best practices in OOD and clean well crafted code. | [Ruby version]( ) tested in RSpec. <br> [Javascript version]( ) tested in Jest|
+| **Bank Tech Test**          | A simple command-line app that models a bank account, designed to highlight best practices in OOD and clean well crafted code. | [Ruby version](https://github.com/fwill22/bank-tech-test-ruby) tested in RSpec. <br> [Javascript version](https://github.com/fwill22/bank-tech-test-JS) tested in Jest|
 
 ## Experience
 
