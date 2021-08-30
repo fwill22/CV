@@ -37,7 +37,7 @@ _Service Project Assistant_
 
 <br>
 
-**We Are Moody Ltd.** (May - October 2019 - *placement terminated due to COVID-19*)  
+**We Are Moody Ltd.** (May - October 2019)  
 _Community Coordinator_
 <p> We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.</p>
 - Any experience relevant to software development
@@ -51,7 +51,7 @@ _Executive Assistant to Director_
 
 <br>
 
-**Flor de Madre** (September 2016 - April 2018 - *placement terminated due to COVID-19*)  
+**Flor de Madre** (September 2016 - April 2018)  
 _Head of Product_
 
 - Any experience relevant to software development
