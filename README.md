@@ -23,12 +23,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 <p>Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. </p>
 
 **BLOK** (October 2020 to March 2021, July 2021 - Present)
+
 _Technical and Customer Support, Front of House_
 - Any experience relevant to software development
 
 <br>
 
-**Freelance Copywriter** (February 2019 to present)  
+**Freelance Copywriter** (February 2019 to present)
 - Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
 - Significant projects include:
     - writing a chapter for a book on Distributed Ledger Technologies and their use cases.
