@@ -22,6 +22,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ## Experience
 <p>Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. </p>
 
+**BLOK** (October 2020 to March 2021, July 2021 - Present)
+_Technical and Customer Support, Front of House_
+- Any experience relevant to software development
+
+<br>
+
 **Freelance Copywriter** (February 2019 to present)  
 - Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
 - Significant projects include:
@@ -69,13 +75,31 @@ _Head of Product_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Communication
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Problem-solving & Analytical Thinking
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Adaptability
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Self-starter
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -98,8 +122,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### UCL (October 2017 to December 2019)
 
 - Neuroscience
-- Grade
-- Other cool stuff
+- Planned a study on the interpersonal functions of crying in stigmatised social contexts.
 
 #### University of Leeds (September 2013 to June 2016)
 
