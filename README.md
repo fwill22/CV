@@ -10,7 +10,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | ---------------------------- | ----------------- | ----------------- |
 | **Fridge Savant** <br> ([Client](https://github.com/fwill22/fridge-savant-client?organization=fwill22&organization=fwill22) / [Server](https://github.com/fwill22/fridge-savant-server))        | A webapp designed to simplify meal planning. Built in React, paired with a server project built in Express/Node. | Javascript, Jest, React, Express, Node, MongoDB |
 | [**Chitter**](https://github.com/fwill22/chitter-challenge) | A fullstack web application written to emulate the features of twitter. | Ruby |
-| [**Notes App**](https://github.com/fwill22/notes-app) | A frontend, single page app written in pure JavaScript. Tested using self-designed framework. | Javascript |
+| [**Notes App**](https://github.com/fwill22/notes-app) | A frontend, single page app written in pure Javascript. Tested using self-designed framework. | Javascript |
 | [**MakersBnB**](https://github.com/fwill22/in_the_airbnb_tonight) | A fullstack web application clone of AirBnB that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, Sinatra, Bootstrap, PostgreSql |
 
 ## Tech Tests
