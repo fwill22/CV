@@ -22,8 +22,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ## Experience
 <p>Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. </p>
 
-**BLOK** (October 2020 to March 2021, July 2021 - Present)
-
+**BLOK** (October 2020 to March 2021, July 2021 - Present)  
 _Technical and Customer Support, Front of House_
 - Any experience relevant to software development
 
