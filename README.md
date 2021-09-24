@@ -164,7 +164,7 @@ _(January 2017 - July 2019)_
 
 <br>
 
-**The Junction Tavern**
+**The Junction Tavern**  
 _Bar and Floor Staff (January 2017 - October 2017)_
 
 <br>
