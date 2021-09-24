@@ -74,7 +74,9 @@ Supporting the development of my colleagues very important to me.
 _(May 2020 to present)_
 <br>
 <p> Working predominantly for tech start-ups, establishing a freelance career during the pandemic required self-determination, initiative, creativity, and collaboration. Copywriting maximises on my ability to attend diligently and empathetically to client needs, be precise with my resource selection, and rapidly onboard new information.</p> 
+
 Significant projects include:
+
 - Researching and writing a chapter for a book on Distributed Ledger Technologies and use cases in one month with no prior knowledge of the subject matter.
 - Used industry knowledge and  to create content copy for crucial company documents, including tech start-up’s White Paper.
 
@@ -86,6 +88,7 @@ Significant projects include:
 _Service Project Assistant (February - April 2020 - *placement terminated due to COVID-19*)_
 <br>
 <p> Assisted with management of annual Service Study as part of the Product Development and Research team. </p>
+
 - Quality testing the survey UX and UI to isolate bugs and ensure accuracy before deployment.
 - Recruiting and engaging with study participants; establishing working relationships to provide effective remote technical support.
 - Responding to external feedback and producing reports to be shared with relevant departments within the company.
@@ -98,7 +101,8 @@ _Service Project Assistant (February - April 2020 - *placement terminated due to
 _Community Coordinator (May - October 2019)_
 <br>
 <p> We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.</p>
-<p>Throughout a period of scaling I:</p>
+Throughout a period of scaling I:
+
 - Used initiative to identify shortcomings in existing customer service protocols. Designed and implemented a new CS system, creating efficient working processes in line with KPIs, and improving qualitative engagement data via empathetic approach. 
 - Analysed social channels and executed new campaign, which boosted user engagement by 15%.
 - Used my research skills to keep up to date on up and coming studies in the sphere of women’s health  – using attention to detail to source accurate articles relevant to our customer base.
@@ -114,6 +118,7 @@ _Community Coordinator (May - October 2019)_
 _Executive Assistant to Director (June - August 2018 - *Locum*)_
 <br> 
 <p>Fast-paced, exacting role as main point-of-contact for coordination of international support teams to high-profile director and his family.</p>
+
 - Proactively shaped role to ensure there was a reliable structure and reusable protocols within a hectic and reactive workload. 
 - Rapidly built relationships with numerous individuals from a spectrum of backgrounds across multiple time zones, using my professionalism and communication skills to ensure all requests were met to full specification in a timely manner.
 - Used my adaptability, positivity and resilience to ensure smooth running of multiple high demand projects.
