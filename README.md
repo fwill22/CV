@@ -74,11 +74,13 @@ Supporting the development of my colleagues very important to me.
 _(May 2020 to present)_
 <br>
 <p> Working predominantly for tech start-ups, establishing a freelance career during the pandemic required self-determination, initiative, creativity, and collaboration. Copywriting maximises on my ability to attend diligently and empathetically to client needs, be precise with my resource selection, and rapidly onboard new information.</p> 
-<p> Significant projects include: </p>
-•	Researching and writing a chapter for a book on Distributed Ledger Technologies and use cases in one month with no prior knowledge of the subject matter.
-•	Used industry knowledge and  to create content copy for crucial company documents, including tech start-up’s White Paper.
+Significant projects include:
+- Researching and writing a chapter for a book on Distributed Ledger Technologies and use cases in one month with no prior knowledge of the subject matter.
+- Used industry knowledge and  to create content copy for crucial company documents, including tech start-up’s White Paper.
+
 
 <br>
+
 
 **Citywire**   
 _Service Project Assistant (February - April 2020 - *placement terminated due to COVID-19*)_
@@ -88,7 +90,9 @@ _Service Project Assistant (February - April 2020 - *placement terminated due to
 - Recruiting and engaging with study participants; establishing working relationships to provide effective remote technical support.
 - Responding to external feedback and producing reports to be shared with relevant departments within the company.
 
+
 <br>
+
 
 **We Are Moody Ltd.**    
 _Community Coordinator (May - October 2019)_
@@ -102,7 +106,9 @@ _Community Coordinator (May - October 2019)_
 - Pioneered monthly ‘Lunch and Learn’ initiative with external speakers to facilitate team’s personal and professional development. 
 - Proactively refined process of onboarding new team members, streamlining the process.
 
+
 <br>
+
 
 **Paramount Pictures**    
 _Executive Assistant to Director (June - August 2018 - *Locum*)_
@@ -112,7 +118,9 @@ _Executive Assistant to Director (June - August 2018 - *Locum*)_
 - Rapidly built relationships with numerous individuals from a spectrum of backgrounds across multiple time zones, using my professionalism and communication skills to ensure all requests were met to full specification in a timely manner.
 - Used my adaptability, positivity and resilience to ensure smooth running of multiple high demand projects.
 
+
 <br>
+
 
 **Flor de Madre**    
 _Head of Product (September 2016 - April 2018)_
@@ -128,7 +136,9 @@ Key responsibilities and achievements include: </p>
 - Established excellent rapport with investors, personally securing 2 individual investors at a single pitch event.
 - Managed stocks and supplies, responsible for delivering accurate weekly reports to the CEO.
 
+
 <br>
+
 
 ----------------------
 
