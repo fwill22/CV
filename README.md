@@ -130,8 +130,10 @@ _Executive Assistant to Director (June - August 2018 - *Locum*)_
 **Flor de Madre**    
 _Head of Product (September 2016 - April 2018)_
 <br>
-<p> Worked to develop a start-up microbrewery from the ground up, where I was promoted from EA to Head of Product after 5 months. 
-Key responsibilities and achievements include: </p>
+<p> Worked to develop a start-up microbrewery from the ground up, where I was promoted from EA to Head of Product after 5 months. </p>
+ 
+Key responsibilities and achievements include:
+
 - Acted as first point of contact for direct sales – liaising with customers and maintaining stockist relationships.
 - Researched and developed a protocol for assuring consistency, quality and long-term stability across product batches.
 - Strategised and managed process of upscaling capacity from 20 to 400 units per week.
