@@ -1,4 +1,4 @@
-## Finn Williamson
+# Finn Williamson
 
  | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
 
@@ -70,54 +70,74 @@ Supporting the development of my colleagues very important to me.
 ## Relevant Experience
 
 
-**Freelance Copywriter**  
+**Copywriter, Freelance**  
 _(May 2020 to present)_
-- Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
-- Significant projects include:
-    - writing a chapter for a book on Distributed Ledger Technologies and their use cases.
-    - Content copy for crucial company documents for external circulation including White Paper.
+<br>
+<p> Working predominantly for tech start-ups, establishing a freelance career during the pandemic required self-determination, initiative, creativity, and collaboration. Copywriting maximises on my ability to attend diligently and empathetically to client needs, be precise with my resource selection, and rapidly onboard new information.</p> 
+<p> Significant projects include: </p>
+•	Researching and writing a chapter for a book on Distributed Ledger Technologies and use cases in one month with no prior knowledge of the subject matter.
+•	Used industry knowledge and  to create content copy for crucial company documents, including tech start-up’s White Paper.
 
 <br>
 
 **Citywire**   
 _Service Project Assistant (February - April 2020 - *placement terminated due to COVID-19*)_
-
-- Any experience relevant to software development
+<br>
+<p> Assisted with management of annual Service Study as part of the Product Development and Research team. </p>
+- Quality testing the survey UX and UI to isolate bugs and ensure accuracy before deployment.
+- Recruiting and engaging with study participants; establishing working relationships to provide effective remote technical support.
+- Responding to external feedback and producing reports to be shared with relevant departments within the company.
 
 <br>
 
 **We Are Moody Ltd.**    
 _Community Coordinator (May - October 2019)_
+<br>
 <p> We Are Moody is an international FemTech start-up responsible for the award-winning health and wellness tracking app Moody Month.</p>
-- Any experience relevant to software development
+<p>Throughout a period of scaling I:</p>
+- Used initiative to identify shortcomings in existing customer service protocols. Designed and implemented a new CS system, creating efficient working processes in line with KPIs, and improving qualitative engagement data via empathetic approach. 
+- Analysed social channels and executed new campaign, which boosted user engagement by 15%.
+- Used my research skills to keep up to date on up and coming studies in the sphere of women’s health  – using attention to detail to source accurate articles relevant to our customer base.
+- Project-managed in-person focus groups. Used results to iterate social media campaigns which boosted engagement by 10%.
+- Pioneered monthly ‘Lunch and Learn’ initiative with external speakers to facilitate team’s personal and professional development. 
+- Proactively refined process of onboarding new team members, streamlining the process.
 
 <br>
 
 **Paramount Pictures**    
 _Executive Assistant to Director (June - August 2018 - *Locum*)_
-
-- Any experience relevant to software development
+<br> 
+<p>Fast-paced, exacting role as main point-of-contact for coordination of international support teams to high-profile director and his family.</p>
+- Proactively shaped role to ensure there was a reliable structure and reusable protocols within a hectic and reactive workload. 
+- Rapidly built relationships with numerous individuals from a spectrum of backgrounds across multiple time zones, using my professionalism and communication skills to ensure all requests were met to full specification in a timely manner.
+- Used my adaptability, positivity and resilience to ensure smooth running of multiple high demand projects.
 
 <br>
 
 **Flor de Madre**    
 _Head of Product (September 2016 - April 2018)_
-
-- Any experience relevant to software development
+<br>
+<p> Worked to develop a start-up microbrewery from the ground up, where I was promoted from EA to Head of Product after 5 months. 
+Key responsibilities and achievements include: </p>
+- Acted as first point of contact for direct sales – liaising with customers and maintaining stockist relationships.
+- Researched and developed a protocol for assuring consistency, quality and long-term stability across product batches.
+- Strategised and managed process of upscaling capacity from 20 to 400 units per week.
+- Independently trained and managed team of 3 brewers, including introducing system for HR support.
+- Independently innovated new food product developed from the brewing by-products, reducing our waste by 40%.
+- Took charge of defining brand identity and initiating social media presence, resulting in expansion of customer base across London.
+- Established excellent rapport with investors, personally securing 2 individual investors at a single pitch event.
+- Managed stocks and supplies, responsible for delivering accurate weekly reports to the CEO.
 
 <br>
 
-
-<br>
+----------------------
 
 ## Other Experience
 
 **BLOK**  
 _Technical and Customer Support, Front of House (October 2020 to March 2021, July 2021 - Present)_
-- Any experience relevant to software development
 
 <br>
-
 
 **Freelance Tutor**  
 _(January 2017 - July 2019)_
@@ -125,13 +145,18 @@ _(January 2017 - July 2019)_
 - Science and English Literature tutor. 
 - Specialized in 1:1 teaching for primary, secondary, and university age students.
 
+<br>
+
 **The Junction Tavern**
 _Bar and Floor Staff (January 2017 - October 2017)_
 
+<br>
+---------------------
 
 ## Education
 
-#### Makers Academy (March – June 2021)
+#### Makers Academy 
+_(March – June 2021)_
 
 16 week highly selective intensive bootcamp which taught me a range of technologies, software design principles and agile working practices with a focus on emotional intelligence. Completed remotely requiring proactive discipline, focus and excellent communication. 
 - Language agnostic due to self-led approach to learning. 
@@ -142,14 +167,16 @@ _Bar and Floor Staff (January 2017 - October 2017)_
 
 <br>
 
-#### UCL (October 2017 to December 2019)
+#### UCL 
+_(October 2017 to December 2019)_
 
 - Neuroscience (PT)
 - Planned a study on the interpersonal functions of crying in stigmatised social contexts.
 
 <br>
 
-#### University of Leeds (September 2013 to June 2016)
+#### University of Leeds 
+_(September 2013 to June 2016)_
 
 - BSc (Hons) Neuroscience, 1st class honors
 - Dissertation on the effects of New Psychoactive Substances (Legal highs), in line with the legislative change banning their sale and use. 
