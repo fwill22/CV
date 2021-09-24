@@ -60,29 +60,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Teamwork
+
+Supporting the development of my colleagues very important to me. 
+- At Makers I found that I thrived in daily pair programming sessions - 
+
 ----------------------------
 
-## Experience
-<p>Since my undergraduate degree I have been working around my continued studies in Neuroscience at UCL. </p>
+## Relevant Experience
 
-**Makers Academy**  
-_Full Stack Junior Software Engineer (March 2021 to June 2021)_
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React
-- RSpec, Capybara, Jasmine, Jest
-
-**BLOK**  
-_Technical and Customer Support, Front of House (October 2020 to March 2021, July 2021 - Present)_
-- Any experience relevant to software development
-
-<br>
 
 **Freelance Copywriter**  
-_(February 2019 to present)_
+_(May 2020 to present)_
 - Working predominantly for tech start-ups, copywriting has required me to attend diligently to client needs, rapidly onboard new information and ...
 - Significant projects include:
     - writing a chapter for a book on Distributed Ledger Technologies and their use cases.
@@ -118,20 +107,47 @@ _Head of Product (September 2016 - April 2018)_
 
 <br>
 
+
+<br>
+
+## Other Experience
+
+**BLOK**  
+_Technical and Customer Support, Front of House (October 2020 to March 2021, July 2021 - Present)_
+- Any experience relevant to software development
+
+<br>
+
+
 **Freelance Tutor**  
 _(January 2017 - July 2019)_
 
 - Science and English Literature tutor. 
 - Specialized in 1:1 teaching for primary, secondary, and university age students.
 
-<br>
+**The Junction Tavern**
+_Bar and Floor Staff (January 2017 - October 2017)_
+
 
 ## Education
 
+#### Makers Academy (March – June 2021)
+
+16 week highly selective intensive bootcamp which taught me a range of technologies, software design principles and agile working practices with a focus on emotional intelligence. Completed remotely requiring proactive discipline, focus and excellent communication. 
+- Language agnostic due to self-led approach to learning. 
+- JavaScript, React, Node.js, Ruby, Rails, Sinatra, HTML, CSS, PostgreSQL, RSpec, Jasmine, Jest.
+- OOD, TDD, MVC, Pair programming, XP Values.
+- Required to regularly reflect on goals and approach to evaluate my own progress and determine when to seek further help. 
+- Gave and received feedback constructively and respectfully through code reviews and team retros.
+
+<br>
+
 #### UCL (October 2017 to December 2019)
 
-- Neuroscience
+- Neuroscience (PT)
 - Planned a study on the interpersonal functions of crying in stigmatised social contexts.
+
+<br>
 
 #### University of Leeds (September 2013 to June 2016)
 
@@ -139,9 +155,15 @@ _(January 2017 - July 2019)_
 - Dissertation on the effects of New Psychoactive Substances (Legal highs), in line with the legislative change banning their sale and use. 
 - Cited on the Dean's list for academic excellence 2015/16
 
-#### Any other qualifications
+<br>
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Institute of Neurology, UCL (July – August 2015)
+
+<p> Summer Studentship –  worked independently in a multidisciplinary academic lab. </p>
+- Developed excellent interpersonal skills within a professional environment; tested my innate ability to learn new skills quickly by taking on a new subject matter and technologies I had no prior experience in. 
+- Co-authored work for publication. Commended for dedication, aptitude, adaptability, and high level of organization.
+
+<br> 
 
 ## Interests
 
