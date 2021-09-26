@@ -203,7 +203,8 @@ _(September 2013 to June 2016)_
 
 <br>
 
-#### Institute of Neurology, UCL (July – August 2015)
+#### Institute of Neurology, UCL  
+_(July – August 2015)_
 
 <p> Summer Studentship –  worked independently in a multidisciplinary academic lab. </p>
 
