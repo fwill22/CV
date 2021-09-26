@@ -174,8 +174,7 @@ _Bar and Floor Staff (January 2017 - October 2017)_
 
 ## Education
 
-#### Makers Academy 
-_(March – June 2021)_
+**Makers Academy** *(March – June 2021)*  
 
 16 week highly selective intensive bootcamp which taught me a range of technologies, software design principles and agile working practices with a focus on emotional intelligence. Completed remotely requiring proactive discipline, focus and excellent communication. 
 - Language agnostic due to self-led approach to learning. 
@@ -186,16 +185,14 @@ _(March – June 2021)_
 
 <br>
 
-#### UCL 
-_(October 2017 to December 2019)_
+**UCL** *(October 2017 to December 2019)*  
 
 - Neuroscience (PT)
 - Planned a study on the interpersonal functions of crying in stigmatised social contexts.
 
 <br>
 
-#### University of Leeds 
-_(September 2013 to June 2016)_
+**University of Leeds** *(September 2013 to June 2016)*  
 
 - BSc (Hons) Neuroscience, 1st class honors
 - Dissertation on the effects of New Psychoactive Substances (Legal highs), in line with the legislative change banning their sale and use. 
@@ -203,8 +200,7 @@ _(September 2013 to June 2016)_
 
 <br>
 
-#### Institute of Neurology, UCL  
-_(July – August 2015)_
+**Institute of Neurology, UCL**  *(July – August 2015)*  
 
 <p> Summer Studentship –  worked independently in a multidisciplinary academic lab. </p>
 
