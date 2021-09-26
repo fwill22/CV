@@ -206,6 +206,7 @@ _(September 2013 to June 2016)_
 #### Institute of Neurology, UCL (July – August 2015)
 
 <p> Summer Studentship –  worked independently in a multidisciplinary academic lab. </p>
+
 - Developed excellent interpersonal skills within a professional environment; tested my innate ability to learn new skills quickly by taking on a new subject matter and technologies I had no prior experience in. 
 - Co-authored work for publication. Commended for dedication, aptitude, adaptability, and high level of organization.
 
