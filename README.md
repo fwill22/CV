@@ -213,7 +213,9 @@ _(September 2013 to June 2016)_
 
 ## Interests
 
-Any cool stuff that makes you a super part of a software development team
+
+- I regularly volunteer for a variety of charities and community projects. I volunteered through university as a demonstrator for University of Leeds’ Pop-Up Science initiative, as a founding member of the steering committee for the Women’s Equality Party in its first 2 years, and for an NHS foodbank in North London for the duration of the Covid-19 lockdown period.
+
 
 ## Contact
 Find me on [LinkedIn](https://www.linkedin.com/in/finnw22/)
