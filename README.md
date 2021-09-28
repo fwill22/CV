@@ -2,7 +2,12 @@
 
  | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) |  [Interests](#interests) | [Contact](#contact) |
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+<p> I am a junior full stack developer with a strong analytical background in Neuroscience bringing experience from a variety of start-up roles. After 4 years of diverse work experience, I hadn’t yet found a role that truly stimulated me and aligned with my goals and values. I wanted a profession that offered a specific function to grow within, and would allow me to combine my aptitude for strategy and problem solving with the same kind of rigorous demands for precise and skillful application, constant learning and creativity inherent to academia. Moreover, I was eager to constructively dedicate myself to real-world challenges with a positive social impact, whilst contributing to and learning from a professional community that strives for greater connectivity, collaboration and support. All of this brought me to software development.</p>
+
+<p>I am naturally curious and driven by the prospect of a new challenge, whether that be learning a new technology or designing my own side project. As a junior, I am looking to work in a supportive learning environment with a focus on high quality code and EI values so that I may keep learning and growing.</p>  
+
+<br>
+
 
 ----------------------------
 
