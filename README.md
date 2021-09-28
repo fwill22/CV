@@ -216,8 +216,10 @@ _Bar and Floor Staff (January 2017 - October 2017)_
 
 ## Interests
 
-
-- I regularly volunteer for a variety of charities and community projects. I volunteered through university as a demonstrator for University of Leeds’ Pop-Up Science initiative, as a founding member of the steering committee for the Women’s Equality Party in its first 2 years, and for an NHS foodbank in North London for the duration of the Covid-19 lockdown period.
+- Much of my free time is spent with my friends and family - cooking, listening to music, and playing backgammon.
+- When I have time to myself I like to write and draw and am also an avid reader and film watcher. 
+- I try to volunteer regularly for a variety of charities and community projects: through university as a demonstrator for University of Leeds’ Pop-Up Science initiative, as a founding member of the steering committee for the Women’s Equality Party in its first 2 years, and for an NHS foodbank in North London for the duration of the Covid-19 lockdown period.
+- Besides that I keep active by practicing yoga and when I get the chance I fuel my obsession with the sea by surfing and scuba diving.
 
 
 ## Contact
